@@ -1,0 +1,25 @@
+
+*** These modified files were found in JOE when it aborted on Mon May 11 14:04:09 2026
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/student/Documents/nastava/mp/SP2-git-fork/pozdrav.txt'
+Zdravo Marko Popovic 
+Zdravo i tebi
+*** File '(Unnamed)'
+.config/user-dirs.dirs
+.bashrc
+.local/share/applications/emu8086.desktop
+.local/share/applications/emu8086.desktop
+fontsmoothing.reg
+.bash_history
+.bash_history
+/home/student/Documents/nastava/mp/SP2-git/.git/COMMIT_EDITMSG
+/home/student/Documents/nastava/mp/SP2-git-fork/.git/COMMIT_EDITMSG
+/home/student/Documents/nastava/mp/SP2-git-fork/.git/COMMIT_EDITMSG
+/home/student/Documents/nastava/mp/SP2-git-fork/pozdrav.txt
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
