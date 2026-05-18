@@ -1,1 +1,6 @@
-Zdravo
+<<<<<<< HEAD
+Zdravo Marko Popovic 
+Zdravo i tebi
+=======
+Zdravo Marko
+>>>>>>> Marko-Popovic-test-grana
