@@ -1,2 +1,1 @@
-Zdravo svete
-Zdravo i tebi
+Zdravo, <ime>-<prezime>
